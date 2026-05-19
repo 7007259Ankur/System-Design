@@ -17,7 +17,7 @@
 | 11 | Flyweight | Structural | `flyweight_design_pattern/` | ⬜ Pending |
 | 12 | Proxy | Structural | `proxy_design_pattern/` | ⬜ Pending |
 | 13 | Chain of Responsibility | Behavioral | `chain_of_responsibility_design_pattern/` | ⬜ Pending |
-| 14 | Command | Behavioral | `command_design_pattern/` | ⬜ Pending |
+| 14 | Command | Behavioral | `command_design_pattern/` | ✅ Done |
 | 15 | Iterator | Behavioral | `iterator_design_pattern/` | ⬜ Pending |
 | 16 | Mediator | Behavioral | `mediator_design_pattern/` | ⬜ Pending |
 | 17 | Memento | Behavioral | `memento_design_pattern/` | ⬜ Pending |
@@ -34,4 +34,4 @@
 - Structural (7): How objects are composed
 - Behavioral (11): How objects communicate
 
-**Total: 23 patterns | Done: 3 | Remaining: 20**
+**Total: 23 patterns | Done: 4 | Remaining: 19**

@@ -25,7 +25,7 @@
 | 19 | State | Behavioral | `state_design_pattern/` | ⬜ Pending |
 | 20 | Strategy | Behavioral | `strategy_design_pattern/` | ⬜ Pending |
 | 21 | Template Method | Behavioral | `template_method_design_pattern/` | ⬜ Pending |
-| 22 | Visitor | Behavioral | `visitor_design_pattern/` | ⬜ Pending |
+| 22 | Visitor | Behavioral | `visitor_design_pattern/` | ✅ Done |
 | 23 | Interpreter | Behavioral | `interpreter_design_pattern/` | ⬜ Pending |
 
 ## Categories
@@ -34,4 +34,4 @@
 - Structural (7): How objects are composed
 - Behavioral (11): How objects communicate
 
-**Total: 23 patterns | Done: 4 | Remaining: 19**
+**Total: 23 patterns | Done: 5 | Remaining: 18**

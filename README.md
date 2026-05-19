@@ -13,7 +13,7 @@
 | 7 | Bridge | Structural | `bridge_design_pattern/` | ⬜ Pending |
 | 8 | Composite | Structural | `composite_design_pattern/` | ⬜ Pending |
 | 9 | Decorator | Structural | `decorator_design_pattern/` | ⬜ Pending |
-| 10 | Facade | Structural | `facade_design_pattern/` | ⬜ Pending |
+| 10 | Facade | Structural | `facade_design_pattern/` | ✅ Done |
 | 11 | Flyweight | Structural | `flyweight_design_pattern/` | ⬜ Pending |
 | 12 | Proxy | Structural | `proxy_design_pattern/` | ⬜ Pending |
 | 13 | Chain of Responsibility | Behavioral | `chain_of_responsibility_design_pattern/` | ⬜ Pending |
@@ -34,4 +34,4 @@
 - Structural (7): How objects are composed
 - Behavioral (11): How objects communicate
 
-**Total: 23 patterns | Done: 2 | Remaining: 21**
+**Total: 23 patterns | Done: 3 | Remaining: 20**
